@@ -8,5 +8,15 @@ def name
 @name
 end 
 
+
+def job= (this_person_job)
+@job = this_person_job
+end 
+
+def job
+@job
+end 
+
+
 end 
 
